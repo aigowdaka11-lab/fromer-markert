@@ -1,0 +1,6 @@
+{
+  "name": "Farmer Direct Market | ರೈತ ನೇರ ಮಾರುಕಟ್ಟೆ",
+  "description": "Direct agricultural marketplace connecting Karnataka farmers with buyers, hotels, and wholesalers without middlemen, featuring transparent APMC mandi prices and dual Kannada-English support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
